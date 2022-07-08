@@ -1,4 +1,4 @@
-# Get Started with Web Devleopment
+# Get Started with Web Devleopment 🤸‍♀️🤸‍♂️🤸‍♀️
 
 1. [Create and set-up linkedin](https://www.linkedin.com/pulse/linkedin-beginner-all-star-8-easy-steps-clifford-wessel)
 2. [Create a github profile and upload all your personal projects as separate repositories](https://lab.github.com/githubtraining/introduction-to-github)
