@@ -11,3 +11,5 @@
     - [Template can be found here](Template.md)
     - [List of github badges can be found here](https://github.com/Ileriayo/markdown-badges)
     - [List of emojis you can use in markdown](https://gist.github.com/rxaviers/7360908)
+8. Find a company that have an open internship or entry level position
+    - [List of some companies in mk](https://docs.google.com/spreadsheets/d/1tP8Hn-pa6x311rG3TJgu03NVXq3yLV3tBetGmuBf6sQ/edit?usp=drivesdk)
