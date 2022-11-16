@@ -16,4 +16,4 @@ The goal of this app was to create a front-end solution for a weather applicatio
 
 The application is hosted on GitHub Pages and can be found on the following link:
 
-* [WeatherApp](www.github.pages.com/bob/weatherapp
+* [WeatherApp Link](www.github.pages.com/bob/weatherapp)
